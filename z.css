@@ -1,0 +1,64 @@
+img{
+width: 30rem;
+height: 20rem;
+margin-bottom: 0;
+
+}
+.s{
+width: 30rem;
+height: 25rem;
+background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-radius: 1.5rem;
+}
+h2{
+margin-left: 12rem;
+
+
+
+}
+.e{
+position: absolute;
+left: 10rem;
+top: 2rem;
+}
+.o{
+    position: absolute;
+    left: 45rem;
+    top: 2rem;
+    }
+    .v{
+        position: absolute;
+        left: 10rem;
+        top: 29rem;
+        }
+        .c{
+            position: absolute;
+            left: 45rem;
+            top: 29rem;
+            }.p{
+                position: absolute;
+                left: 10rem;
+                top: 56rem;
+                }
+                .h{
+                    position: absolute;
+                    left: 45rem;
+                    top: 56rem;
+                    }
+    body{
+
+     border: #fc4a1a;   
+        background: #fc4a1a;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #f7b733, #fc4a1a);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #f7b733, #fc4a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        
+    }
+
+
+
+
+
+

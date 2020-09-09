@@ -1,0 +1,37 @@
+body{
+    background: #DA22FF;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #9733EE, #DA22FF);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #9733EE, #DA22FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.c{
+    position: relative;
+    animation-name: lase;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+} 
+@keyframes lase{
+    0% { left: 0px ;top: 0px;}
+    25% { left: 0px ;top:200px ;}
+    45% { left: 770px ;top:200px;}
+    75% { left: 770px ;top:0px;}
+    100% { left: 0px ;right: 0px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

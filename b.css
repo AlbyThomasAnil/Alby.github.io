@@ -1,0 +1,75 @@
+body{
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+       
+}
+.w{
+background-color: crimson;
+width: 15rem;
+height: 10rem;
+text-align-last: center;
+float: left;
+margin-right: 10rem;
+font-size: x-large; ;
+border-radius: 1.5rem;
+}
+.b{
+background-color: white;
+
+
+}
+.c{
+    margin-left: 17rem;
+    text-align-last: center;
+    background-color: crimson;
+    width: 15rem;
+    height: 10rem;
+    position: relative;
+    animation-name: laser;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+@keyframes laser{
+    0% { left: 0px ;top: 0px;}
+    25% { left: 0px ;top:200px ;}
+    45% { left: 200px ;top:200px;}
+    75% { left: 200px ;top:0px;}
+    100% { left: 0px ;right: 0px;}
+}
+.g{
+    position: relative;
+    animation-name: lase;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+} 
+@keyframes lase{
+    0% { left: 0px ;top: 0px;}
+    25% { left: 0px ;top:200px ;}
+    45% { left: 200px ;top:200px;}
+    75% { left: 200px ;top:0px;}
+    100% { left: 0px ;right: 0px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

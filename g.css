@@ -1,0 +1,53 @@
+body{
+    background: #11998e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.w{background: #a8ff78;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #78ffd6, #a8ff78);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #78ffd6, #a8ff78); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   width: 30rem;
+height: 25rem;
+
+border-radius: 1.5rem;
+
+}
+  img{
+    width: 30rem;
+    height: 20rem;
+    margin-bottom: 0;
+
+  }
+  h2{
+    margin-left: 12rem;
+    }
+    .r{
+      position: absolute;
+      left: 10rem;
+      top: 2rem;
+      }
+      .f{
+          position: absolute;
+          left: 45rem;
+          top: 2rem;
+          }
+          .s{
+              position: absolute;
+              left: 10rem;
+              top: 29rem;
+              }
+              .c{
+                  position: absolute;
+                  left: 45rem;
+                  top: 29rem;
+                  }
+                  .p{
+                      position: absolute;
+                      left: 10rem;
+                      top: 56rem;
+                      }
+                      .l{
+                          position: absolute;
+                          left: 45rem;
+                          top: 56rem;
+                          }
